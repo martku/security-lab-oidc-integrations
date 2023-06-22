@@ -1,4 +1,4 @@
-module github.com/chr-fritz/security-lab-oidc-integrations/backend-service
+module github.com/martku/security-lab-oidc-integrations/backend-service
 
 go 1.20
 

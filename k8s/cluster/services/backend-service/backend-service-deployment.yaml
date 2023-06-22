@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: backend-service
-          image: ghcr.io/chr-fritz/seclab-backend-service:latest
+          image: ghcr.io/martku/seclab-backend-service:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8081

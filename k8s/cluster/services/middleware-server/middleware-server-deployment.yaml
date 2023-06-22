@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: middleware-server
-          image: ghcr.io/chr-fritz/seclab-middleware-server:latest
+          image: ghcr.io/martku/seclab-middleware-server:latest
           ports:
             - containerPort: 8080
               name: http
